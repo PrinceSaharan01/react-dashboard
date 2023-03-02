@@ -11,7 +11,7 @@ const Nav = () => {
     }
     return (
         <div>
-<img alt="logo" className="logo" src="https://qph.cf2.quoracdn.net/main-qimg-b018c5551395c14ca2053526f7721897-lq"></img>
+<img alt="logo" className="logo" src="logoshop.png"></img>
             {/* <li>{authenticate? <Link onClick={logout} to= '/signup'>Logout</Link>:<Link to="/signup">SignUp</Link>}</li>   // handles logout and signin
                 <li><Link to='/login'>Login</Link></li> */}
             {
